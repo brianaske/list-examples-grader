@@ -13,6 +13,7 @@ else
     exit 1
 fi
 
+
 cp ../TestListExamples.java ./
 cp -R ../lib ./
 echo "The tester file is copied over to the student-submission dir"
